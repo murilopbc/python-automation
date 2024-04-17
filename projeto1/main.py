@@ -21,6 +21,5 @@ for linha in vendas_sheet.iter_rows(min_row=1):
     pyautogui.click(1752,549,duration=1.5)
     pyautogui.click(1256,581,duration=1.5)
 
-    print(linha)
 
     
